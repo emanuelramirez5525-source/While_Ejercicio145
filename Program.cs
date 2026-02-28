@@ -1,1 +1,1 @@
-﻿// SSumar los números del 1 al 100.
+﻿// Sumar los números del 1 al 100.
